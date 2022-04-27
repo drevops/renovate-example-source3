@@ -1,0 +1,11 @@
+{
+    "name": "drevops/renovate-example-source3",
+    "description": "A test package to test Renovate config. Used to trigger release updates.",
+    "authors": [
+        {
+            "name": "Alex Skrypnyk",
+            "email": "alex@integratedexperts.com"
+        }
+    ],
+    "require": {}
+}
